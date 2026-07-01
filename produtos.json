@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "Contra baixo",
+        "preco": 1800,
+        "marca": "Tagima"
+    },
+    {
+        "nome": "Guitarra Les paul Stenberg",
+        "preco": 1999.99,
+        "marca": "Tagima"
+    },
+    {
+        "nome": "Baixo Fender mexicano",
+        "preco": 2000.0,
+        "marca": "Fender"
+    },
+    {
+        "nome": "Guitarra super strato fender",
+        "preco": 2400.0,
+        "marca": "fender"
+    },
+    {
+        "nome": "Guitarra tom morello",
+        "preco": 1800.0,
+        "marca": "fender"
+    },
+    {
+        "nome": "Guitarra guibson les paul",
+        "preco": 3000.0,
+        "marca": "guibson"
+    },
+    {
+        "nome": "Contra baixo jazz bass",
+        "preco": 1999.99,
+        "marca": "fender"
+    }
+]
