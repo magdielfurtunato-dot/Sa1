@@ -89,7 +89,7 @@ def menu_interativo():
         limpar_tela()
         
         print("\n\033[46m                               \033[0m")
-        print("\033[36m     DIRESTRAT MUSIC CENTER  \033[0m")
+        print("\033[34m     DIRESTRAT MUSIC CENTER  \033[0m")
         print("            stock          ")
         print("\033[46m                               \n\033[0m")
         
