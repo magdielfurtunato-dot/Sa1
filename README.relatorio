@@ -1,0 +1,146 @@
+1
+O presente relatório tem como
+objetivo apresentar a análise
+técnica do repositório do projeto
+SA1, hospedado na plataforma
+GitHub, utilizando o sistema 
+de controle de versão Git. A 
+proposta do projeto está 
+diretamente relacionada à 
+aplicação prática de conceitos
+fundamentais de versionamento 
+de código, organização de 
+projetos e desenvolvimento 
+colaborativo.
+
+2. Descrição do Repositório
+
+O projeto encontra-se hospedado no GitHub, uma das principais plataformas de versionamento e compartilhamento de código do mundo. O repositório foi criado com o intuito de armazenar e gerenciar os arquivos relacionados ao desenvolvimento do projeto SA1.
+
+O repositório apresenta os seguintes elementos principais:
+
+Arquivo README.md contendo informações iniciais
+
+Estrutura básica de projeto
+
+Histórico de commits
+
+Organização inicial de arquivos
+
+3. Tecnologias Utilizadas
+
+3.1 Git
+
+O Git foi utilizado como sistema de controle de versão distribuído, permitindo registrar todas as alterações feitas no projeto ao longo do tempo.
+
+Principais funcionalidades utilizadas:
+
+Versionamento de código
+
+Registro de alterações (commits)
+
+Controle de histórico
+
+Sincronização com repositório remoto
+
+3.2 GitHub
+
+O GitHub foi utilizado como plataforma de hospedagem do projeto, permitindo:
+
+Armazenamento em nuvem
+
+Compartilhamento do código
+
+Visualização do histórico de commits
+
+Acesso remoto ao projeto
+
+4. Estrutura do Projeto
+
+A estrutura do projeto segue um padrão simples e funcional, adequado para projetos acadêmicos iniciais. Os principais componentes observados incluem:
+
+README.md: documentação principal do projeto
+
+Arquivos de código: responsáveis pela implementação da lógica do sistema
+
+Organização básica de diretórios: estrutura inicial ainda em desenvolvimento
+
+A organização demonstra compreensão inicial de boas práticas, porém ainda pode evoluir com modularização mais avançada.
+
+5. Controle de Versão
+
+O controle de versão foi realizado por meio de commits, que registram as alterações feitas no projeto. Cada commit representa um avanço no desenvolvimento.
+
+Observações:
+
+O uso de commits demonstra entendimento do fluxo básico do Git
+
+É recomendável melhorar a padronização das mensagens de commit
+
+Commits mais descritivos ajudam na manutenção futura
+
+Exemplo de boas práticas:
+
+"Adiciona funcionalidade de cálculo de jogo"
+
+"Corrige erro na entrada de dados"
+
+6. Fluxo de Desenvolvimento
+
+O fluxo utilizado no projeto segue o padrão básico:
+
+Criação do repositório no GitHub
+
+Desenvolvimento local
+
+Adição de arquivos com git add
+
+Registro com git commit
+
+Envio com git push
+
+Esse fluxo é adequado para projetos individuais e demonstra domínio inicial da ferramenta.
+
+7. Pontos Positivos
+
+Uso correto do Git para versionamento
+
+Projeto hospedado corretamente no GitHub
+
+Estrutura inicial organizada
+
+Aplicação prática dos conceitos aprendidos
+
+8. Pontos de Melhoria
+
+Apesar dos acertos, alguns pontos podem ser aprimorados:
+
+Melhorar a documentação no README
+
+Adicionar descrição detalhada do projeto
+
+Incluir instruções de execução
+
+Padronizar mensagens de commit
+
+Criar branches para novas funcionalidades
+
+Organizar melhor os arquivos em pastas
+
+9. Boas Práticas Recomendadas
+
+Para evolução do projeto, recomenda-se:
+
+Utilizar branches (ex: feature, develop)
+
+Criar pull requests para controle de mudanças
+
+Documentar melhor o código
+
+Adicionar comentários explicativos
+
+Criar versões (releases)
+
+10. Conclusão
+
+O projeto SA1 demonstra a aplicação inicial dos conceitos de versionamento com Git e uso do GitHub. A estrutura e o fluxo adotados são adequados para o nível acadêmico, evidenciando aprendizado prático.
