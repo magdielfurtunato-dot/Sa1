@@ -88,10 +88,10 @@ def menu_interativo():
     while True:
         limpar_tela()
         
-        print("\n\033[46m                               \033[0m")
-        print("\033[34m     DIRESTRAT MUSIC CENTER  \033[0m")
+        print("\n                               ")
+        print("     DIRESTRAT MUSIC CENTER  ")
         print("            stock          ")
-        print("\033[46m                               \n\033[0m")
+        print("                               \n\n")
         
         for i, opcao in enumerate(opcoes):
             if i == posicao:
